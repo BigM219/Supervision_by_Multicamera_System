@@ -25,4 +25,3 @@
   doi={10.1109/ACCESS.2023.3266068}
 }
 ```
-# Supervision_by_Multicamera_System
